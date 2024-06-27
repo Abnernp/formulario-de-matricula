@@ -18,3 +18,18 @@ legend {
 .address legend{
     margin-top: 3rem;
 }
+
+.guardian {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+.enroll-options label {
+  margin-top: 1rem;
+}
+
+.actions-wrapper{
+  margin-top: 3rem;
+  display: flex;
+  gap: 1rem;
+}
+
