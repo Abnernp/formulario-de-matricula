@@ -1,11 +1,12 @@
 @import url(input.css);
 @import url(droparea.css);
 @import url(radio.css);
+@import url(checkbox.css);
 
 .guardian {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
 }
-.input-wrapper label {
+.enroll-options label {
   margin-top: 1rem;
 }
